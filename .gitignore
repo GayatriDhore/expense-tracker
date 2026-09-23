@@ -1,0 +1,9 @@
+target/
+*.class
+expenses.csv
+expenses.pdf
+.env
+.idea/
+.vscode/
+*.logstartup-error.txt
+startup-error.txt
